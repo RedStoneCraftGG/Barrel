@@ -13,6 +13,21 @@
 - Inventory
 - And More...
 
+## Installation
+
+<h3><b>Linux</b></h3>
+
+```
+sudo apt install default-jdk maven git
+git clone https://github.com/DavyCraft648/Barrel
+cd Barrel
+mvn install
+```
+Run the program
+```
+java -jar target/Barrel-1.0.0-SNAPSHOT.jar
+```
+
 ## Credits
 
 - [TunnelMC](https://github.com/THEREALWWEFAN231/TunnelMC)
